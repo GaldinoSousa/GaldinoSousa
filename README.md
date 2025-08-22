@@ -45,7 +45,7 @@ Sou um desenvolvedor FullStack em início de carreira, recém-formado pela Infin
 
 ## 📫 Como entrar em contato comigo
 
-- LinkedIn: [Seu perfil](https://www.linkedin.com/in/thiago-sousa-660063303/) *(adicione seu link)*
+- LinkedIn: [thiago-sousa](https://www.linkedin.com/in/thiago-sousa-660063303/) *(adicione seu link)*
 - E-mail: **galdinosousa336@gmail.com**
 - Instagram: [@seu usuario](https://instagram.com/seu-usuario)
 
